@@ -1,6 +1,6 @@
 # 🛒 Blinkit Data Analysis Project
 
-## [Click here to explore the interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDJjN2NkMmItNjMxOS00NjE1LTgxNGUtODM3M2VlNWMyMmE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## [Click here to explore the interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQxZmU4MGQtNTI3ZC00MjExLWFjNzQtYzJlNjNkMDUyZTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📌 Project Overview
 
